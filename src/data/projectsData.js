@@ -7,7 +7,7 @@ export const projectsData = [
     infos:
       "Projet fait en équipe lors d'un hackathon de 3 jours pendant ma formation de développeur. Equipe de 2 Webdesigners et 3 Webdéveloppeurs.",
     img: "./assets/img/Hackathon.jpg",
-    link: "https://bring-the-light.netlify.app/.com",
+    link: "https://bring-the-light.netlify.app",
   },
   {
     id: 2,
