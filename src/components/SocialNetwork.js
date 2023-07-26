@@ -23,7 +23,7 @@ const SocialNetwork = () => {
                     <i class="fa-brands fa-github"></i>
                 </li>
             </a>
-            <a href='https://www.linkedin.com/feed/' target='_blank' rel='noopener noreferrer' className='hover' onMouseOver={anim}>
+            <a href='www.linkedin.com/in/thomas-delattre-dev' target='_blank' rel='noopener noreferrer' className='hover' onMouseOver={anim}>
                 <li>
                 <i class="fa-brands fa-linkedin"></i>
                 </li>
